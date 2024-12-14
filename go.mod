@@ -21,6 +21,8 @@ require (
 	kraftkit.sh v0.9.1
 )
 
+require github.com/gorilla/websocket v1.4.2 // indirect
+
 require (
 	dario.cat/mergo v1.0.0 // indirect
 	github.com/AlecAivazis/survey/v2 v2.3.7 // indirect
@@ -28,6 +30,7 @@ require (
 	github.com/ProtonMail/go-crypto v1.0.0 // indirect
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
 	github.com/briandowns/spinner v1.23.1 // indirect
+	github.com/bwmarrin/discordgo v0.28.1
 	github.com/charmbracelet/lipgloss v0.12.1 // indirect
 	github.com/charmbracelet/x/ansi v0.1.4 // indirect
 	github.com/cli/go-gh v1.2.1 // indirect
